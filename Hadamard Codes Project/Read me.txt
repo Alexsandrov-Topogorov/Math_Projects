@@ -1,8 +1,6 @@
-Hello Sir, I hope this message finds you well
-
-This is only to let you know that the pictures found in this folder are to be put on the same directory as the source code's
-or you could simply use the whole path of the pictures you want to use instead
-note that the decoding process takes quite some time and for the pictures provided (Mariner 4 and Mariner 10) the times were respectively
-11.47min and 9.43min
-
-Thank you for your time and attention Sir
+This project was about the hadamard codes encryption method that is based on Hadamard matrices to retreive data portions of noised data after being sent through some channel.
+This encryption meethod was originally used on the Mariner2 satelite program sent by NASA in 1962 to retrive images about Venus.
+This Folder contains the following elements:
+1- Cosmic Encryption: A total report of the project with a comprehensive introduction to the theory behind the Hadamard codes
+2- Mariner Code: the Python program for the simulation of the method
+3- Pictures: the pictures used in during the testing of the program
