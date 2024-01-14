@@ -1,0 +1,8 @@
+Hello Sir, I hope this message finds you well
+
+This is only to let you know that the pictures found in this folder are to be put on the same directory as the source code's
+or you could simply use the whole path of the pictures you want to use instead
+note that the decoding process takes quite some time and for the pictures provided (Mariner 4 and Mariner 10) the times were respectively
+11.47min and 9.43min
+
+Thank you for your time and attention Sir
